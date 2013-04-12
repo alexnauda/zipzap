@@ -12,7 +12,7 @@ The zip file is an ideal container for compound Objective-C documents. Zip files
   s.homepage     = 'https://github.com/pixelglow/zipzap'
 
   s.author       = 'Pixelglow Software'
-  s.source       = { :git => 'https://github.com/pixelglow/zipzap.git', :tag => '5.0osx' }
+  s.source       = { :git => 'https://github.com/alexnauda/zipzap.git', :tag => '5.0osx' }
   s.license      = 'BSD'
 
   s.source_files = 'Classes', 'zipzap/**/*.{h,m,mm}'
